@@ -1,12 +1,3 @@
-<script>
-var sub1 = "sub1";
-var sub2 = "sub2";
-var sub3 = "sub3";
-var afflink = "📌📌📌📌";
-var sub2Info = "📌offer_dk📌";
-</script>
-
-<script>
 	const sec = 7000;
 	var btn1 = document.getElementById("btn1");
 	var btn1Img = document.getElementById("btn1Img");
@@ -54,4 +45,3 @@ var sub2Info = "📌offer_dk📌";
 
 		btn1.addEventListener("click", openLink);
 	});
-</script>
